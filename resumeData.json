@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Junaid Arshad (Software Engineer)",
+    "occupation": "student of Software Engineering and a Self-Taught Programmer ",
+    "description": "looking forward to tackle challenging tasks.",
+    "image": "junaid2.jpeg",
+    "bio": "Experienced Full-Stack web developer with excellent communication and interpersonal skills, skilled in technologies, modest in attitude and moderate in living, having a good work-life balance, and aware of social and cultural values. Committed to achieve the short-term goals that pave the way to reach the horizon of ultimate destiny.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "junaidarshad113@gmail.com",
+    "phone": "+923105640408",
+    "address": {
+      "street": "123 Fake Street",
+      "country": "Pakistan",
+      "city": "Quetta",
+      "zip": "ABC 123"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/drive/my-drive",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/junaid.satti.54",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/junaid-arshad-6810a81b1/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/junaidarshad113",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Foundation University",
+        "degree": "Bachelors Degree in Software Engineering",
+        "Years": "Aug 2017-july 2021",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "SUPERTECH Institute Of Computer Sciences",
+        "title": "Intern MERN Stack Development",
+        "years": "January 1 2022 - Continuee..",
+        "description":"Expertise with React Functional Component Development. Strong Experience With React Hooks. Creating frontend using React/Redux, Formik & Yup. Experience with Mongoose ODM & MongoDB. Creating backend applications in ExpressJS and using NODEJS Framwork for creating rest APIs - A backend progressive & highly opinionated framework."
+                       
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portfolio",
+        "category": " A Portfolio using HTML and CSS",
+        "image": "Portfolio.png",
+        "url": "https://taimoor55971.github.io/personal-web/"
+      },
+      {
+        "title": "ToDo App",
+        "category": "ToDo App built with MongoDB,ExpressJS,NodeJS ",
+        "image": "ToDO-App.png",
+        "url": "https://evening-journey-13851.herokuapp.com/"
+      },
+      {
+        "title": "A NewsLetter Signup",
+        "category": " A NewsLetter Signup built with  ExpressJS,NodeJS,Mailchimp ApI",
+        "image": "Newsletter.png",
+        "url": "https://blooming-tor-05122.herokuapp.com/"
+      },
+      {
+        "title": "Amazon Clone ",
+        "category": "MERN stack clone",
+        "image": "ss amazon.png",
+        "url": "https://hungry-saha-b077c0.netlify.app"
+      },
+      {
+        "title": "Blog site ",
+        "category": "EJS,MngoDB",
+        "image": "taimoorblog.herokuapp.com.png",
+        "url": "https://taimoorblog.herokuapp.com/"
+      }
+    ]
+  }
+}
